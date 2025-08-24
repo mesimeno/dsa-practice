@@ -5,7 +5,7 @@ This repository contains my **solutions to various Data Structures and Algorithm
 - **Problem Statement**  
 - **Examples**  
 - **Solution Approach** (where I explain my thinking, strategy, and any challenges I encountered)  
-- **Code Solution** (primarily in Java, but occasionally in Python)  
+- **Working Code** (primarily in Java, but occasionally in Python)  
 
 The problems are organized by **topic/** for easier navigation.
 Each topic directory contains Markdown files for individual problems. 
@@ -13,7 +13,7 @@ Each topic directory contains Markdown files for individual problems.
 ---
 
 ## **Topics Currently Covered**
-This list will grow over time, but I currently have entries for:
+I look forward to growing this list over time! This repo currently features:
 
 ## Array & Hashing
 - [Group Anagrams](array-hash/group-anagrams.md)
