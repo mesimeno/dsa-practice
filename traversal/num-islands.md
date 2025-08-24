@@ -60,11 +60,11 @@ class Solution {
     private void exploreNeighbors(char[][] grid, int r, int c) {
 
 			// Base case: Ran into water, denoted '0'
-			if (graph[r][c] == 0)
+			if (graph[r][c] == '0')
 				return;
 				
 			// Otherwise, mark the current position as 'visited' by denoting it '0'
-			graph[r][c] = 0;
+			graph[r][c] = '0';
 			
 			// Then explore immediately up, down, left, right
 			
