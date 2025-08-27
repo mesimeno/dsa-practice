@@ -21,6 +21,7 @@ I look forward to growing this list over time! This repo currently features:
 - [Top K Frequent Elements](array-hash/top-k-freq.md)
 - [Two Sum](array-hash/two-sum.md)
 - [Valid Sudoku](array-hash/valid-sudoku.md)
+- [Longest Consecutive Subsequence](array-hash/longest-consecutive-subsequence.md)
 
 ## Linked List
 - [Reverse Linked List](linked-list/reverse-linked-list.md)
