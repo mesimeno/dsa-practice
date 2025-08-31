@@ -2,7 +2,7 @@
 
 Given $n$ points in metric space, find a pair of points with the smallest distance between them.
 
-- Metric space refers to a a set of points with a notion of ‘distance’ between them
+- Metric space refers to a set of points with a notion of ‘distance’ between them
 
 # Examples
 
