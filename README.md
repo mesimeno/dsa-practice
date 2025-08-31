@@ -15,7 +15,7 @@ Each topic directory contains Markdown files for individual problems.
 ## **Topics Currently Covered**
 I look forward to growing this list over time! This repo currently features:
 
-## Array & Hashing
+## Array and Hashing
 - [Group Anagrams](array-hash/group-anagrams.md)
 - [Product of Array Except Self](array-hash/product-array-except-self.md)
 - [Top K Frequent Elements](array-hash/top-k-freq.md)
@@ -29,6 +29,9 @@ I look forward to growing this list over time! This repo currently features:
 ## Traversal (BFS / DFS)
 - [Binary Tree Level Order Traversal](traversal/bt-level-order.md)
 - [Number of Islands](traversal/num-islands.md)
+
+# Divide and Conquer
+- [Closest Pair of Points](divide-conquer/closest-pair.md)
 
 ---
 
